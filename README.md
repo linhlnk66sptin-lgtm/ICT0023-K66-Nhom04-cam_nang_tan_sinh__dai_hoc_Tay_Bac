@@ -1,1 +1,1 @@
-# ICT0023-K66-Nhom04-C-m-nang-t-n-sinh-vi-n-i-h-c-T-y-B-c
+# ICT0023-K66-Nhom04-Cam_nang_tan_sinh_vien_dai_hoc_Tay_Bac
