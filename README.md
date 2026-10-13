@@ -11,9 +11,9 @@ Website "Cẩm nang Tân sinh viên Đại học Tây Bắc" hỗ trợ các b�
 ## 2. THÀNH VIÊN NHÓM & VAI TRÒ CHÍNH
 
 | STT | Họ và tên | Tài khoản GitHub | Vai trò chung trong nhóm |
-| 1 | Lê Ngọc Linh  | `@tygiang` *(thay username)* | **Trưởng nhóm** — Quản lý Git Repository,  Phát triển trang `hoi-dap.html`
-| 2 | Vũ Đình Anh Kiệt | `@kietvudinh` | Thành viên — Phát triển trang chủ `index.html` |
-| 3 | Giàng A Páo| `@paogiang` | Thành viên — Phát triển trang `cam-nang.html` & `cong-cu.html` |
+| 1 | Lê Ngọc Linh  | `@linhlnk66sptin-lgtm` | **Trưởng nhóm** — Quản lý Git Repository,  Phát triển trang `hoi-dap.html`
+| 2 | Vũ Đình Anh Kiệt | `@vudinhanhkiet` | Thành viên — Phát triển trang chủ `index.html` |
+| 3 | Giàng A Páo| `@Ap` | Thành viên — Phát triển trang `cam-nang.html` & `cong-cu.html` |
 | 4 | Giàng A Tỷ | `@GiangATy11-hash`| Thành viên — code trang `hocvu-hocbong.html` & `lienhe.html` |
 
 ## 3. CÔNG NGHỆ SỬ DỤNG
