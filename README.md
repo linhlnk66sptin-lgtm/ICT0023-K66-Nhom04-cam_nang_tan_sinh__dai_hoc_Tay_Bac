@@ -14,7 +14,7 @@ Website "Cẩm nang Tân sinh viên Đại học Tây Bắc" hỗ trợ các b�
 | 1 | Lê Ngọc Linh  | `@tygiang` *(thay username)* | **Trưởng nhóm** — Quản lý Git Repository,  Phát triển trang `hoi-dap.html`
 | 2 | Vũ Đình Anh Kiệt | `@kietvudinh` | Thành viên — Phát triển trang chủ `index.html` |
 | 3 | Giàng A Páo| `@paogiang` | Thành viên — Phát triển trang `cam-nang.html` & `cong-cu.html` |
-| 4 | Giàng A Tỷ | `@linhle` | Thành viên — code trang `hocvu-hocbong.html` & `lienhe.html` |
+| 4 | Giàng A Tỷ | `@GiangATy11-hash`| Thành viên — code trang `hocvu-hocbong.html` & `lienhe.html` |
 
 ## 3. CÔNG NGHỆ SỬ DỤNG
  Bài tập lớn ICT0023-K66-Nhom04-cam_nang_tan_sinh_vien_dai_hoc_tay_bac : Website dùng HTML, CSS , Javascript , Jquery , Bootstrap chạy trang web hoàn toàn trên trình duyệt
